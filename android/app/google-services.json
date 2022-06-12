@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629621554264",
+    "project_id": "dw-7-job-timer-8cd54",
+    "storage_bucket": "dw-7-job-timer-8cd54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629621554264:android:f11b7ff4b5b8afa357de2d",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629621554264-n3c2dcnmni5bbag2mknohtrdkrgpqj3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiadoflutter.job_timer",
+            "certificate_hash": "9b40c55d347c38715d5d1e532239b94df91e59d3"
+          }
+        },
+        {
+          "client_id": "629621554264-2dt869br3erhs6kf3ifdmie2k6vgoua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1GuAo5buOSFdqDEpJmcHmUqOakNuzow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629621554264-2dt869br3erhs6kf3ifdmie2k6vgoua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
