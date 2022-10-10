@@ -26,6 +26,8 @@ class ProjectRegisterController extends Cubit<ProjectRegisterStatus>{
       );
       await _projectService.register(project);
       emit(ProjectRegisterStatus.success);
+      // await Future.delayed(Duration(seconds: 2));
+      // emit(ProjectRegisterStatus.initial);
     } on Exception catch (e, s) {
       log('Erro ao salvar Project', error:e, stackTrace: s);
       emit(ProjectRegisterStatus.failure);
